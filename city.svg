@@ -1,0 +1,642 @@
+<svg width="900" height="450" xmlns="http://www.w3.org/2000/svg">
+      <rect width="100%" height="100%" fill="#0d1117" /><polygon points="400,100 408,104 400,108 392,104" fill="#161b22" /><polygon points="392,104 400,108 392,112 384,108" fill="#161b22" />
+    <polygon points="376,112 384,116 384,100 376,96" fill="#0a4d5c" />
+    <polygon points="392,112 384,116 384,100 392,96" fill="#0e7a8a" />
+    <polygon points="384,92 392,96 384,100 376,96" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="368,116 376,120 376,48 368,44" fill="#0a4d5c" />
+    <polygon points="384,116 376,120 376,48 384,44" fill="#0e7a8a" />
+    <polygon points="376,40 384,44 376,48 368,44" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="360,120 368,124 368,92 360,88" fill="#0a4d5c" />
+    <polygon points="376,120 368,124 368,92 376,88" fill="#0e7a8a" />
+    <polygon points="368,84 376,88 368,92 360,88" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="352,124 360,128 360,72 352,68" fill="#0a4d5c" />
+    <polygon points="368,124 360,128 360,72 368,68" fill="#0e7a8a" />
+    <polygon points="360,64 368,68 360,72 352,68" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="344,128 352,132 352,92 344,88" fill="#0a4d5c" />
+    <polygon points="360,128 352,132 352,92 360,88" fill="#0e7a8a" />
+    <polygon points="352,84 360,88 352,92 344,88" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="400,108 408,112 408,80 400,76" fill="#0a4d5c" />
+    <polygon points="416,108 408,112 408,80 416,76" fill="#0e7a8a" />
+    <polygon points="408,72 416,76 408,80 400,76" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="392,112 400,116 400,60 392,56" fill="#0a4d5c" />
+    <polygon points="408,112 400,116 400,60 408,56" fill="#0e7a8a" />
+    <polygon points="400,52 408,56 400,60 392,56" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="384,116 392,120 392,64 384,60" fill="#0a4d5c" />
+    <polygon points="400,116 392,120 392,64 400,60" fill="#0e7a8a" />
+    <polygon points="392,56 400,60 392,64 384,60" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="384,116 392,120 384,124 376,120" fill="#161b22" />
+    <polygon points="368,124 376,128 376,120 368,116" fill="#0a4d5c" />
+    <polygon points="384,124 376,128 376,120 384,116" fill="#0e7a8a" />
+    <polygon points="376,112 384,116 376,120 368,116" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="360,128 368,132 368,68 360,64" fill="#0a4d5c" />
+    <polygon points="376,128 368,132 368,68 376,64" fill="#0e7a8a" />
+    <polygon points="368,60 376,64 368,68 360,64" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="360,128 368,132 360,136 352,132" fill="#161b22" /><polygon points="416,108 424,112 416,116 408,112" fill="#161b22" /><polygon points="408,112 416,116 408,120 400,116" fill="#161b22" />
+    <polygon points="392,120 400,124 400,100 392,96" fill="#0a4d5c" />
+    <polygon points="408,120 400,124 400,100 408,96" fill="#0e7a8a" />
+    <polygon points="400,92 408,96 400,100 392,96" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="384,124 392,128 392,80 384,76" fill="#0a4d5c" />
+    <polygon points="400,124 392,128 392,80 400,76" fill="#0e7a8a" />
+    <polygon points="392,72 400,76 392,80 384,76" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="376,128 384,132 384,68 376,64" fill="#0a4d5c" />
+    <polygon points="392,128 384,132 384,68 392,64" fill="#0e7a8a" />
+    <polygon points="384,60 392,64 384,68 376,64" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="368,132 376,136 376,112 368,108" fill="#0a4d5c" />
+    <polygon points="384,132 376,136 376,112 384,108" fill="#0e7a8a" />
+    <polygon points="376,104 384,108 376,112 368,108" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="368,132 376,136 368,140 360,136" fill="#161b22" /><polygon points="424,112 432,116 424,120 416,116" fill="#161b22" /><polygon points="416,116 424,120 416,124 408,120" fill="#161b22" />
+    <polygon points="400,124 408,128 408,64 400,60" fill="#0a4d5c" />
+    <polygon points="416,124 408,128 408,64 416,60" fill="#0e7a8a" />
+    <polygon points="408,56 416,60 408,64 400,60" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="392,128 400,132 400,28 392,24" fill="#0a4d5c" />
+    <polygon points="408,128 400,132 400,28 408,24" fill="#0e7a8a" />
+    <polygon points="400,20 408,24 400,28 392,24" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="384,132 392,136 392,120 384,116" fill="#0a4d5c" />
+    <polygon points="400,132 392,136 392,120 400,116" fill="#0e7a8a" />
+    <polygon points="392,112 400,116 392,120 384,116" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="376,136 384,140 384,132 376,128" fill="#0a4d5c" />
+    <polygon points="392,136 384,140 384,132 392,128" fill="#0e7a8a" />
+    <polygon points="384,124 392,128 384,132 376,128" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="376,136 384,140 376,144 368,140" fill="#161b22" /><polygon points="432,116 440,120 432,124 424,120" fill="#161b22" /><polygon points="424,120 432,124 424,128 416,124" fill="#161b22" /><polygon points="416,124 424,128 416,132 408,128" fill="#161b22" /><polygon points="408,128 416,132 408,136 400,132" fill="#161b22" /><polygon points="400,132 408,136 400,140 392,136" fill="#161b22" /><polygon points="392,136 400,140 392,144 384,140" fill="#161b22" /><polygon points="384,140 392,144 384,148 376,144" fill="#161b22" /><polygon points="440,120 448,124 440,128 432,124" fill="#161b22" /><polygon points="432,124 440,128 432,132 424,128" fill="#161b22" /><polygon points="424,128 432,132 424,136 416,132" fill="#161b22" /><polygon points="416,132 424,136 416,140 408,136" fill="#161b22" /><polygon points="408,136 416,140 408,144 400,140" fill="#161b22" /><polygon points="400,140 408,144 400,148 392,144" fill="#161b22" /><polygon points="392,144 400,148 392,152 384,148" fill="#161b22" /><polygon points="448,124 456,128 448,132 440,128" fill="#161b22" /><polygon points="440,128 448,132 440,136 432,132" fill="#161b22" />
+    <polygon points="424,136 432,140 432,124 424,120" fill="#0a4d5c" />
+    <polygon points="440,136 432,140 432,124 440,120" fill="#0e7a8a" />
+    <polygon points="432,116 440,120 432,124 424,120" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="416,140 424,144 424,136 416,132" fill="#0a4d5c" />
+    <polygon points="432,140 424,144 424,136 432,132" fill="#0e7a8a" />
+    <polygon points="424,128 432,132 424,136 416,132" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="408,144 416,148 416,76 408,72" fill="#0a4d5c" />
+    <polygon points="424,144 416,148 416,76 424,72" fill="#0e7a8a" />
+    <polygon points="416,68 424,72 416,76 408,72" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="400,148 408,152 408,144 400,140" fill="#0a4d5c" />
+    <polygon points="416,148 408,152 408,144 416,140" fill="#0e7a8a" />
+    <polygon points="408,136 416,140 408,144 400,140" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="392,152 400,156 400,132 392,128" fill="#0a4d5c" />
+    <polygon points="408,152 400,156 400,132 408,128" fill="#0e7a8a" />
+    <polygon points="400,124 408,128 400,132 392,128" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="456,128 464,132 456,136 448,132" fill="#161b22" />
+    <polygon points="440,136 448,140 448,76 440,72" fill="#0a4d5c" />
+    <polygon points="456,136 448,140 448,76 456,72" fill="#0e7a8a" />
+    <polygon points="448,68 456,72 448,76 440,72" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="432,140 440,144 440,120 432,116" fill="#0a4d5c" />
+    <polygon points="448,140 440,144 440,120 448,116" fill="#0e7a8a" />
+    <polygon points="440,112 448,116 440,120 432,116" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="424,144 432,148 432,84 424,80" fill="#0a4d5c" />
+    <polygon points="440,144 432,148 432,84 440,80" fill="#0e7a8a" />
+    <polygon points="432,76 440,80 432,84 424,80" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="424,144 432,148 424,152 416,148" fill="#161b22" /><polygon points="416,148 424,152 416,156 408,152" fill="#161b22" /><polygon points="408,152 416,156 408,160 400,156" fill="#161b22" />
+    <polygon points="456,136 464,140 464,124 456,120" fill="#0a4d5c" />
+    <polygon points="472,136 464,140 464,124 472,120" fill="#0e7a8a" />
+    <polygon points="464,116 472,120 464,124 456,120" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="448,140 456,144 456,112 448,108" fill="#0a4d5c" />
+    <polygon points="464,140 456,144 456,112 464,108" fill="#0e7a8a" />
+    <polygon points="456,104 464,108 456,112 448,108" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="448,140 456,144 448,148 440,144" fill="#161b22" />
+    <polygon points="432,148 440,152 440,112 432,108" fill="#0a4d5c" />
+    <polygon points="448,148 440,152 440,112 448,108" fill="#0e7a8a" />
+    <polygon points="440,104 448,108 440,112 432,108" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="424,152 432,156 432,124 424,120" fill="#0a4d5c" />
+    <polygon points="440,152 432,156 432,124 440,120" fill="#0e7a8a" />
+    <polygon points="432,116 440,120 432,124 424,120" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="416,156 424,160 424,120 416,116" fill="#0a4d5c" />
+    <polygon points="432,156 424,160 424,120 432,116" fill="#0e7a8a" />
+    <polygon points="424,112 432,116 424,120 416,116" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="416,156 424,160 416,164 408,160" fill="#161b22" /><polygon points="472,136 480,140 472,144 464,140" fill="#161b22" />
+    <polygon points="456,144 464,148 464,140 456,136" fill="#0a4d5c" />
+    <polygon points="472,144 464,148 464,140 472,136" fill="#0e7a8a" />
+    <polygon points="464,132 472,136 464,140 456,136" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="448,148 456,152 456,128 448,124" fill="#0a4d5c" />
+    <polygon points="464,148 456,152 456,128 464,124" fill="#0e7a8a" />
+    <polygon points="456,120 464,124 456,128 448,124" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="440,152 448,156 448,100 440,96" fill="#0a4d5c" />
+    <polygon points="456,152 448,156 448,100 456,96" fill="#0e7a8a" />
+    <polygon points="448,92 456,96 448,100 440,96" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="432,156 440,160 440,152 432,148" fill="#0a4d5c" />
+    <polygon points="448,156 440,160 440,152 448,148" fill="#0e7a8a" />
+    <polygon points="440,144 448,148 440,152 432,148" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="432,156 440,160 432,164 424,160" fill="#161b22" />
+    <polygon points="416,164 424,168 424,120 416,116" fill="#0a4d5c" />
+    <polygon points="432,164 424,168 424,120 432,116" fill="#0e7a8a" />
+    <polygon points="424,112 432,116 424,120 416,116" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="480,140 488,144 480,148 472,144" fill="#161b22" /><polygon points="472,144 480,148 472,152 464,148" fill="#161b22" />
+    <polygon points="456,152 464,156 464,108 456,104" fill="#0a4d5c" />
+    <polygon points="472,152 464,156 464,108 472,104" fill="#0e7a8a" />
+    <polygon points="464,100 472,104 464,108 456,104" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="456,152 464,156 456,160 448,156" fill="#161b22" /><polygon points="448,156 456,160 448,164 440,160" fill="#161b22" /><polygon points="440,160 448,164 440,168 432,164" fill="#161b22" /><polygon points="432,164 440,168 432,172 424,168" fill="#161b22" /><polygon points="488,144 496,148 488,152 480,148" fill="#161b22" /><polygon points="480,148 488,152 480,156 472,152" fill="#161b22" /><polygon points="472,152 480,156 472,160 464,156" fill="#161b22" /><polygon points="464,156 472,160 464,164 456,160" fill="#161b22" />
+    <polygon points="448,164 456,168 456,40 448,36" fill="#0a4d5c" />
+    <polygon points="464,164 456,168 456,40 464,36" fill="#0e7a8a" />
+    <polygon points="456,32 464,36 456,40 448,36" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="440,168 448,172 448,148 440,144" fill="#0a4d5c" />
+    <polygon points="456,168 448,172 448,148 456,144" fill="#0e7a8a" />
+    <polygon points="448,140 456,144 448,148 440,144" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="440,168 448,172 440,176 432,172" fill="#161b22" />
+    <polygon points="488,152 496,156 496,140 488,136" fill="#0a4d5c" />
+    <polygon points="504,152 496,156 496,140 504,136" fill="#0e7a8a" />
+    <polygon points="496,132 504,136 496,140 488,136" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="488,152 496,156 488,160 480,156" fill="#161b22" />
+    <polygon points="472,160 480,164 480,148 472,144" fill="#0a4d5c" />
+    <polygon points="488,160 480,164 480,148 488,144" fill="#0e7a8a" />
+    <polygon points="480,140 488,144 480,148 472,144" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="464,164 472,168 472,128 464,124" fill="#0a4d5c" />
+    <polygon points="480,164 472,168 472,128 480,124" fill="#0e7a8a" />
+    <polygon points="472,120 480,124 472,128 464,124" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="464,164 472,168 464,172 456,168" fill="#161b22" />
+    <polygon points="448,172 456,176 456,104 448,100" fill="#0a4d5c" />
+    <polygon points="464,172 456,176 456,104 464,100" fill="#0e7a8a" />
+    <polygon points="456,96 464,100 456,104 448,100" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="448,172 456,176 448,180 440,176" fill="#161b22" /><polygon points="504,152 512,156 504,160 496,156" fill="#161b22" />
+    <polygon points="488,160 496,164 496,124 488,120" fill="#0a4d5c" />
+    <polygon points="504,160 496,164 496,124 504,120" fill="#0e7a8a" />
+    <polygon points="496,116 504,120 496,124 488,120" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="480,164 488,168 488,96 480,92" fill="#0a4d5c" />
+    <polygon points="496,164 488,168 488,96 496,92" fill="#0e7a8a" />
+    <polygon points="488,88 496,92 488,96 480,92" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="480,164 488,168 480,172 472,168" fill="#161b22" />
+    <polygon points="464,172 472,176 472,144 464,140" fill="#0a4d5c" />
+    <polygon points="480,172 472,176 472,144 480,140" fill="#0e7a8a" />
+    <polygon points="472,136 480,140 472,144 464,140" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="464,172 472,176 464,180 456,176" fill="#161b22" /><polygon points="456,176 464,180 456,184 448,180" fill="#161b22" /><polygon points="512,156 520,160 512,164 504,160" fill="#161b22" />
+    <polygon points="496,164 504,168 504,112 496,108" fill="#0a4d5c" />
+    <polygon points="512,164 504,168 504,112 512,108" fill="#0e7a8a" />
+    <polygon points="504,104 512,108 504,112 496,108" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="488,168 496,172 496,156 488,152" fill="#0a4d5c" />
+    <polygon points="504,168 496,172 496,156 504,152" fill="#0e7a8a" />
+    <polygon points="496,148 504,152 496,156 488,152" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="480,172 488,176 488,144 480,140" fill="#0a4d5c" />
+    <polygon points="496,172 488,176 488,144 496,140" fill="#0e7a8a" />
+    <polygon points="488,136 496,140 488,144 480,140" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="480,172 488,176 480,180 472,176" fill="#161b22" />
+    <polygon points="464,180 472,184 472,168 464,164" fill="#0a4d5c" />
+    <polygon points="480,180 472,184 472,168 480,164" fill="#0e7a8a" />
+    <polygon points="472,160 480,164 472,168 464,164" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="464,180 472,184 464,188 456,184" fill="#161b22" /><polygon points="520,160 528,164 520,168 512,164" fill="#161b22" />
+    <polygon points="504,168 512,172 512,148 504,144" fill="#0a4d5c" />
+    <polygon points="520,168 512,172 512,148 520,144" fill="#0e7a8a" />
+    <polygon points="512,140 520,144 512,148 504,144" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="496,172 504,176 504,152 496,148" fill="#0a4d5c" />
+    <polygon points="512,172 504,176 504,152 512,148" fill="#0e7a8a" />
+    <polygon points="504,144 512,148 504,152 496,148" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="488,176 496,180 496,148 488,144" fill="#0a4d5c" />
+    <polygon points="504,176 496,180 496,148 504,144" fill="#0e7a8a" />
+    <polygon points="496,140 504,144 496,148 488,144" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="488,176 496,180 488,184 480,180" fill="#161b22" />
+    <polygon points="472,184 480,188 480,172 472,168" fill="#0a4d5c" />
+    <polygon points="488,184 480,188 480,172 488,168" fill="#0e7a8a" />
+    <polygon points="480,164 488,168 480,172 472,168" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="472,184 480,188 472,192 464,188" fill="#161b22" /><polygon points="528,164 536,168 528,172 520,168" fill="#161b22" /><polygon points="520,168 528,172 520,176 512,172" fill="#161b22" />
+    <polygon points="504,176 512,180 512,132 504,128" fill="#0a4d5c" />
+    <polygon points="520,176 512,180 512,132 520,128" fill="#0e7a8a" />
+    <polygon points="512,124 520,128 512,132 504,128" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="496,180 504,184 504,176 496,172" fill="#0a4d5c" />
+    <polygon points="512,180 504,184 504,176 512,172" fill="#0e7a8a" />
+    <polygon points="504,168 512,172 504,176 496,172" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="488,184 496,188 496,116 488,112" fill="#0a4d5c" />
+    <polygon points="504,184 496,188 496,116 504,112" fill="#0e7a8a" />
+    <polygon points="496,108 504,112 496,116 488,112" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="480,188 488,192 488,128 480,124" fill="#0a4d5c" />
+    <polygon points="496,188 488,192 488,128 496,124" fill="#0e7a8a" />
+    <polygon points="488,120 496,124 488,128 480,124" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="480,188 488,192 480,196 472,192" fill="#161b22" /><polygon points="536,168 544,172 536,176 528,172" fill="#161b22" />
+    <polygon points="520,176 528,180 528,172 520,168" fill="#0a4d5c" />
+    <polygon points="536,176 528,180 528,172 536,168" fill="#0e7a8a" />
+    <polygon points="528,164 536,168 528,172 520,168" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="520,176 528,180 520,184 512,180" fill="#161b22" />
+    <polygon points="504,184 512,188 512,164 504,160" fill="#0a4d5c" />
+    <polygon points="520,184 512,188 512,164 520,160" fill="#0e7a8a" />
+    <polygon points="512,156 520,160 512,164 504,160" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="496,188 504,192 504,136 496,132" fill="#0a4d5c" />
+    <polygon points="512,188 504,192 504,136 512,132" fill="#0e7a8a" />
+    <polygon points="504,128 512,132 504,136 496,132" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="488,192 496,196 496,108 488,104" fill="#0a4d5c" />
+    <polygon points="504,192 496,196 496,108 504,104" fill="#0e7a8a" />
+    <polygon points="496,100 504,104 496,108 488,104" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="480,196 488,200 488,192 480,188" fill="#0a4d5c" />
+    <polygon points="496,196 488,200 488,192 496,188" fill="#0e7a8a" />
+    <polygon points="488,184 496,188 488,192 480,188" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="544,172 552,176 544,180 536,176" fill="#161b22" />
+    <polygon points="528,180 536,184 536,96 528,92" fill="#0a4d5c" />
+    <polygon points="544,180 536,184 536,96 544,92" fill="#0e7a8a" />
+    <polygon points="536,88 544,92 536,96 528,92" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="528,180 536,184 528,188 520,184" fill="#161b22" />
+    <polygon points="512,188 520,192 520,176 512,172" fill="#0a4d5c" />
+    <polygon points="528,188 520,192 520,176 528,172" fill="#0e7a8a" />
+    <polygon points="520,168 528,172 520,176 512,172" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="512,188 520,192 512,196 504,192" fill="#161b22" />
+    <polygon points="496,196 504,200 504,168 496,164" fill="#0a4d5c" />
+    <polygon points="512,196 504,200 504,168 512,164" fill="#0e7a8a" />
+    <polygon points="504,160 512,164 504,168 496,164" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="496,196 504,200 496,204 488,200" fill="#161b22" /><polygon points="552,176 560,180 552,184 544,180" fill="#161b22" /><polygon points="544,180 552,184 544,188 536,184" fill="#161b22" />
+    <polygon points="528,188 536,192 536,136 528,132" fill="#0a4d5c" />
+    <polygon points="544,188 536,192 536,136 544,132" fill="#0e7a8a" />
+    <polygon points="536,128 544,132 536,136 528,132" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="520,192 528,196 528,172 520,168" fill="#0a4d5c" />
+    <polygon points="536,192 528,196 528,172 536,168" fill="#0e7a8a" />
+    <polygon points="528,164 536,168 528,172 520,168" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="520,192 528,196 520,200 512,196" fill="#161b22" />
+    <polygon points="504,200 512,204 512,180 504,176" fill="#0a4d5c" />
+    <polygon points="520,200 512,204 512,180 520,176" fill="#0e7a8a" />
+    <polygon points="512,172 520,176 512,180 504,176" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="504,200 512,204 504,208 496,204" fill="#161b22" /><polygon points="560,180 568,184 560,188 552,184" fill="#161b22" /><polygon points="552,184 560,188 552,192 544,188" fill="#161b22" />
+    <polygon points="536,192 544,196 544,172 536,168" fill="#0a4d5c" />
+    <polygon points="552,192 544,196 544,172 552,168" fill="#0e7a8a" />
+    <polygon points="544,164 552,168 544,172 536,168" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="528,196 536,200 536,160 528,156" fill="#0a4d5c" />
+    <polygon points="544,196 536,200 536,160 544,156" fill="#0e7a8a" />
+    <polygon points="536,152 544,156 536,160 528,156" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="528,196 536,200 528,204 520,200" fill="#161b22" /><polygon points="520,200 528,204 520,208 512,204" fill="#161b22" />
+    <polygon points="504,208 512,212 512,196 504,192" fill="#0a4d5c" />
+    <polygon points="520,208 512,212 512,196 520,192" fill="#0e7a8a" />
+    <polygon points="512,188 520,192 512,196 504,192" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="568,184 576,188 568,192 560,188" fill="#161b22" /><polygon points="560,188 568,192 560,196 552,192" fill="#161b22" /><polygon points="552,192 560,196 552,200 544,196" fill="#161b22" /><polygon points="544,196 552,200 544,204 536,200" fill="#161b22" /><polygon points="536,200 544,204 536,208 528,204" fill="#161b22" />
+    <polygon points="520,208 528,212 528,132 520,128" fill="#0a4d5c" />
+    <polygon points="536,208 528,212 528,132 536,128" fill="#0e7a8a" />
+    <polygon points="528,124 536,128 528,132 520,128" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="520,208 528,212 520,216 512,212" fill="#161b22" /><polygon points="576,188 584,192 576,196 568,192" fill="#161b22" /><polygon points="568,192 576,196 568,200 560,196" fill="#161b22" />
+    <polygon points="552,200 560,204 560,180 552,176" fill="#0a4d5c" />
+    <polygon points="568,200 560,204 560,180 568,176" fill="#0e7a8a" />
+    <polygon points="560,172 568,176 560,180 552,176" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="544,204 552,208 552,176 544,172" fill="#0a4d5c" />
+    <polygon points="560,204 552,208 552,176 560,172" fill="#0e7a8a" />
+    <polygon points="552,168 560,172 552,176 544,172" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="536,208 544,212 544,188 536,184" fill="#0a4d5c" />
+    <polygon points="552,208 544,212 544,188 552,184" fill="#0e7a8a" />
+    <polygon points="544,180 552,184 544,188 536,184" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="536,208 544,212 536,216 528,212" fill="#161b22" />
+    <polygon points="520,216 528,220 528,92 520,88" fill="#0a4d5c" />
+    <polygon points="536,216 528,220 528,92 536,88" fill="#0e7a8a" />
+    <polygon points="528,84 536,88 528,92 520,88" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="584,192 592,196 584,200 576,196" fill="#161b22" /><polygon points="576,196 584,200 576,204 568,200" fill="#161b22" />
+    <polygon points="560,204 568,208 568,176 560,172" fill="#0a4d5c" />
+    <polygon points="576,204 568,208 568,176 576,172" fill="#0e7a8a" />
+    <polygon points="568,168 576,172 568,176 560,172" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="552,208 560,212 560,196 552,192" fill="#0a4d5c" />
+    <polygon points="568,208 560,212 560,196 568,192" fill="#0e7a8a" />
+    <polygon points="560,188 568,192 560,196 552,192" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="552,208 560,212 552,216 544,212" fill="#161b22" />
+    <polygon points="536,216 544,220 544,172 536,168" fill="#0a4d5c" />
+    <polygon points="552,216 544,220 544,172 552,168" fill="#0e7a8a" />
+    <polygon points="544,164 552,168 544,172 536,168" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="528,220 536,224 536,160 528,156" fill="#0a4d5c" />
+    <polygon points="544,220 536,224 536,160 544,156" fill="#0e7a8a" />
+    <polygon points="536,152 544,156 536,160 528,156" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="592,196 600,200 592,204 584,200" fill="#161b22" /><polygon points="584,200 592,204 584,208 576,204" fill="#161b22" />
+    <polygon points="568,208 576,212 576,172 568,168" fill="#0a4d5c" />
+    <polygon points="584,208 576,212 576,172 584,168" fill="#0e7a8a" />
+    <polygon points="576,164 584,168 576,172 568,168" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="560,212 568,216 568,152 560,148" fill="#0a4d5c" />
+    <polygon points="576,212 568,216 568,152 576,148" fill="#0e7a8a" />
+    <polygon points="568,144 576,148 568,152 560,148" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="552,216 560,220 560,204 552,200" fill="#0a4d5c" />
+    <polygon points="568,216 560,220 560,204 568,200" fill="#0e7a8a" />
+    <polygon points="560,196 568,200 560,204 552,200" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="544,220 552,224 552,168 544,164" fill="#0a4d5c" />
+    <polygon points="560,220 552,224 552,168 560,164" fill="#0e7a8a" />
+    <polygon points="552,160 560,164 552,168 544,164" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="544,220 552,224 544,228 536,224" fill="#161b22" /><polygon points="600,200 608,204 600,208 592,204" fill="#161b22" />
+    <polygon points="584,208 592,212 592,196 584,192" fill="#0a4d5c" />
+    <polygon points="600,208 592,212 592,196 600,192" fill="#0e7a8a" />
+    <polygon points="592,188 600,192 592,196 584,192" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="576,212 584,216 584,184 576,180" fill="#0a4d5c" />
+    <polygon points="592,212 584,216 584,184 592,180" fill="#0e7a8a" />
+    <polygon points="584,176 592,180 584,184 576,180" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="576,212 584,216 576,220 568,216" fill="#161b22" />
+    <polygon points="560,220 568,224 568,200 560,196" fill="#0a4d5c" />
+    <polygon points="576,220 568,224 568,200 576,196" fill="#0e7a8a" />
+    <polygon points="568,192 576,196 568,200 560,196" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="552,224 560,228 560,148 552,144" fill="#0a4d5c" />
+    <polygon points="568,224 560,228 560,148 568,144" fill="#0e7a8a" />
+    <polygon points="560,140 568,144 560,148 552,144" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="552,224 560,228 552,232 544,228" fill="#161b22" /><polygon points="608,204 616,208 608,212 600,208" fill="#161b22" /><polygon points="600,208 608,212 600,216 592,212" fill="#161b22" />
+    <polygon points="584,216 592,220 592,164 584,160" fill="#0a4d5c" />
+    <polygon points="600,216 592,220 592,164 600,160" fill="#0e7a8a" />
+    <polygon points="592,156 600,160 592,164 584,160" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="584,216 592,220 584,224 576,220" fill="#161b22" />
+    <polygon points="568,224 576,228 576,212 568,208" fill="#0a4d5c" />
+    <polygon points="584,224 576,228 576,212 584,208" fill="#0e7a8a" />
+    <polygon points="576,204 584,208 576,212 568,208" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="568,224 576,228 568,232 560,228" fill="#161b22" />
+    <polygon points="552,232 560,236 560,204 552,200" fill="#0a4d5c" />
+    <polygon points="568,232 560,236 560,204 568,200" fill="#0e7a8a" />
+    <polygon points="560,196 568,200 560,204 552,200" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="608,212 616,216 616,208 608,204" fill="#0a4d5c" />
+    <polygon points="624,212 616,216 616,208 624,204" fill="#0e7a8a" />
+    <polygon points="616,200 624,204 616,208 608,204" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="608,212 616,216 608,220 600,216" fill="#161b22" />
+    <polygon points="592,220 600,224 600,192 592,188" fill="#0a4d5c" />
+    <polygon points="608,220 600,224 600,192 608,188" fill="#0e7a8a" />
+    <polygon points="600,184 608,188 600,192 592,188" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="592,220 600,224 592,228 584,224" fill="#161b22" /><polygon points="584,224 592,228 584,232 576,228" fill="#161b22" /><polygon points="576,228 584,232 576,236 568,232" fill="#161b22" /><polygon points="568,232 576,236 568,240 560,236" fill="#161b22" /><polygon points="624,212 632,216 624,220 616,216" fill="#161b22" /><polygon points="616,216 624,220 616,224 608,220" fill="#161b22" /><polygon points="608,220 616,224 608,228 600,224" fill="#161b22" /><polygon points="600,224 608,228 600,232 592,228" fill="#161b22" /><polygon points="592,228 600,232 592,236 584,232" fill="#161b22" /><polygon points="584,232 592,236 584,240 576,236" fill="#161b22" /><polygon points="576,236 584,240 576,244 568,240" fill="#161b22" /><polygon points="632,216 640,220 632,224 624,220" fill="#161b22" /><polygon points="624,220 632,224 624,228 616,224" fill="#161b22" /><polygon points="616,224 624,228 616,232 608,228" fill="#161b22" />
+    <polygon points="600,232 608,236 608,188 600,184" fill="#0a4d5c" />
+    <polygon points="616,232 608,236 608,188 616,184" fill="#0e7a8a" />
+    <polygon points="608,180 616,184 608,188 600,184" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="600,232 608,236 600,240 592,236" fill="#161b22" /><polygon points="592,236 600,240 592,244 584,240" fill="#161b22" /><polygon points="584,240 592,244 584,248 576,244" fill="#161b22" />
+    <polygon points="632,224 640,228 640,172 632,168" fill="#0a4d5c" />
+    <polygon points="648,224 640,228 640,172 648,168" fill="#0e7a8a" />
+    <polygon points="640,164 648,168 640,172 632,168" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="632,224 640,228 632,232 624,228" fill="#161b22" />
+    <polygon points="616,232 624,236 624,228 616,224" fill="#0a4d5c" />
+    <polygon points="632,232 624,236 624,228 632,224" fill="#0e7a8a" />
+    <polygon points="624,220 632,224 624,228 616,224" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="616,232 624,236 616,240 608,236" fill="#161b22" /><polygon points="608,236 616,240 608,244 600,240" fill="#161b22" />
+    <polygon points="592,244 600,248 600,224 592,220" fill="#0a4d5c" />
+    <polygon points="608,244 600,248 600,224 608,220" fill="#0e7a8a" />
+    <polygon points="600,216 608,220 600,224 592,220" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="584,248 592,252 592,212 584,208" fill="#0a4d5c" />
+    <polygon points="600,248 592,252 592,212 600,208" fill="#0e7a8a" />
+    <polygon points="592,204 600,208 592,212 584,208" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="648,224 656,228 648,232 640,228" fill="#161b22" /><polygon points="640,228 648,232 640,236 632,232" fill="#161b22" /><polygon points="632,232 640,236 632,240 624,236" fill="#161b22" />
+    <polygon points="616,240 624,244 624,220 616,216" fill="#0a4d5c" />
+    <polygon points="632,240 624,244 624,220 632,216" fill="#0e7a8a" />
+    <polygon points="624,212 632,216 624,220 616,216" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="608,244 616,248 616,224 608,220" fill="#0a4d5c" />
+    <polygon points="624,244 616,248 616,224 624,220" fill="#0e7a8a" />
+    <polygon points="616,216 624,220 616,224 608,220" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="608,244 616,248 608,252 600,248" fill="#161b22" />
+    <polygon points="592,252 600,256 600,224 592,220" fill="#0a4d5c" />
+    <polygon points="608,252 600,256 600,224 608,220" fill="#0e7a8a" />
+    <polygon points="600,216 608,220 600,224 592,220" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="656,228 664,232 656,236 648,232" fill="#161b22" /><polygon points="648,232 656,236 648,240 640,236" fill="#161b22" />
+    <polygon points="632,240 640,244 640,204 632,200" fill="#0a4d5c" />
+    <polygon points="648,240 640,244 640,204 648,200" fill="#0e7a8a" />
+    <polygon points="640,196 648,200 640,204 632,200" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="624,244 632,248 632,232 624,228" fill="#0a4d5c" />
+    <polygon points="640,244 632,248 632,232 640,228" fill="#0e7a8a" />
+    <polygon points="632,224 640,228 632,232 624,228" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="624,244 632,248 624,252 616,248" fill="#161b22" /><polygon points="616,248 624,252 616,256 608,252" fill="#161b22" /><polygon points="608,252 616,256 608,260 600,256" fill="#161b22" /><polygon points="664,232 672,236 664,240 656,236" fill="#161b22" /><polygon points="656,236 664,240 656,244 648,240" fill="#161b22" />
+    <polygon points="640,244 648,248 648,200 640,196" fill="#0a4d5c" />
+    <polygon points="656,244 648,248 648,200 656,196" fill="#0e7a8a" />
+    <polygon points="648,192 656,196 648,200 640,196" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="640,244 648,248 640,252 632,248" fill="#161b22" />
+    <polygon points="624,252 632,256 632,224 624,220" fill="#0a4d5c" />
+    <polygon points="640,252 632,256 632,224 640,220" fill="#0e7a8a" />
+    <polygon points="632,216 640,220 632,224 624,220" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="616,256 624,260 624,212 616,208" fill="#0a4d5c" />
+    <polygon points="632,256 624,260 624,212 632,208" fill="#0e7a8a" />
+    <polygon points="624,204 632,208 624,212 616,208" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="616,256 624,260 616,264 608,260" fill="#161b22" /><polygon points="672,236 680,240 672,244 664,240" fill="#161b22" /><polygon points="664,240 672,244 664,248 656,244" fill="#161b22" /><polygon points="656,244 664,248 656,252 648,248" fill="#161b22" /><polygon points="648,248 656,252 648,256 640,252" fill="#161b22" /><polygon points="640,252 648,256 640,260 632,256" fill="#161b22" /><polygon points="632,256 640,260 632,264 624,260" fill="#161b22" /><polygon points="624,260 632,264 624,268 616,264" fill="#161b22" /><polygon points="680,240 688,244 680,248 672,244" fill="#161b22" />
+    <polygon points="664,248 672,252 672,196 664,192" fill="#0a4d5c" />
+    <polygon points="680,248 672,252 672,196 680,192" fill="#0e7a8a" />
+    <polygon points="672,188 680,192 672,196 664,192" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="656,252 664,256 664,232 656,228" fill="#0a4d5c" />
+    <polygon points="672,252 664,256 664,232 672,228" fill="#0e7a8a" />
+    <polygon points="664,224 672,228 664,232 656,228" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="656,252 664,256 656,260 648,256" fill="#161b22" />
+    <polygon points="640,260 648,264 648,216 640,212" fill="#0a4d5c" />
+    <polygon points="656,260 648,264 648,216 656,212" fill="#0e7a8a" />
+    <polygon points="648,208 656,212 648,216 640,212" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="632,264 640,268 640,228 632,224" fill="#0a4d5c" />
+    <polygon points="648,264 640,268 640,228 648,224" fill="#0e7a8a" />
+    <polygon points="640,220 648,224 640,228 632,224" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="632,264 640,268 632,272 624,268" fill="#161b22" /><polygon points="688,244 696,248 688,252 680,248" fill="#161b22" />
+    <polygon points="672,252 680,256 680,224 672,220" fill="#0a4d5c" />
+    <polygon points="688,252 680,256 680,224 688,220" fill="#0e7a8a" />
+    <polygon points="680,216 688,220 680,224 672,220" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="672,252 680,256 672,260 664,256" fill="#161b22" />
+    <polygon points="656,260 664,264 664,256 656,252" fill="#0a4d5c" />
+    <polygon points="672,260 664,264 664,256 672,252" fill="#0e7a8a" />
+    <polygon points="664,248 672,252 664,256 656,252" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="656,260 664,264 656,268 648,264" fill="#161b22" /><polygon points="648,264 656,268 648,272 640,268" fill="#161b22" /><polygon points="640,268 648,272 640,276 632,272" fill="#161b22" />
+    <polygon points="688,252 696,256 696,248 688,244" fill="#0a4d5c" />
+    <polygon points="704,252 696,256 696,248 704,244" fill="#0e7a8a" />
+    <polygon points="696,240 704,244 696,248 688,244" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="688,252 696,256 688,260 680,256" fill="#161b22" /><polygon points="680,256 688,260 680,264 672,260" fill="#161b22" /><polygon points="672,260 680,264 672,268 664,264" fill="#161b22" /><polygon points="664,264 672,268 664,272 656,268" fill="#161b22" /><polygon points="656,268 664,272 656,276 648,272" fill="#161b22" />
+    <polygon points="640,276 648,280 648,272 640,268" fill="#0a4d5c" />
+    <polygon points="656,276 648,280 648,272 656,268" fill="#0e7a8a" />
+    <polygon points="648,264 656,268 648,272 640,268" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="704,252 712,256 704,260 696,256" fill="#161b22" /><polygon points="696,256 704,260 696,264 688,260" fill="#161b22" /><polygon points="688,260 696,264 688,268 680,264" fill="#161b22" /><polygon points="680,264 688,268 680,272 672,268" fill="#161b22" /><polygon points="672,268 680,272 672,276 664,272" fill="#161b22" />
+    <polygon points="656,276 664,280 664,224 656,220" fill="#0a4d5c" />
+    <polygon points="672,276 664,280 664,224 672,220" fill="#0e7a8a" />
+    <polygon points="664,216 672,220 664,224 656,220" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="656,276 664,280 656,284 648,280" fill="#161b22" />
+    <polygon points="704,260 712,264 712,240 704,236" fill="#0a4d5c" />
+    <polygon points="720,260 712,264 712,240 720,236" fill="#0e7a8a" />
+    <polygon points="712,232 720,236 712,240 704,236" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="704,260 712,264 704,268 696,264" fill="#161b22" /><polygon points="696,264 704,268 696,272 688,268" fill="#161b22" /><polygon points="688,268 696,272 688,276 680,272" fill="#161b22" /><polygon points="680,272 688,276 680,280 672,276" fill="#161b22" /><polygon points="672,276 680,280 672,284 664,280" fill="#161b22" /><polygon points="664,280 672,284 664,288 656,284" fill="#161b22" /><polygon points="720,260 728,264 720,268 712,264" fill="#161b22" /><polygon points="712,264 720,268 712,272 704,268" fill="#161b22" /><polygon points="704,268 712,272 704,276 696,272" fill="#161b22" /><polygon points="696,272 704,276 696,280 688,276" fill="#161b22" /><polygon points="688,276 696,280 688,284 680,280" fill="#161b22" /><polygon points="680,280 688,284 680,288 672,284" fill="#161b22" /><polygon points="672,284 680,288 672,292 664,288" fill="#161b22" /><polygon points="728,264 736,268 728,272 720,268" fill="#161b22" /><polygon points="720,268 728,272 720,276 712,272" fill="#161b22" /><polygon points="712,272 720,276 712,280 704,276" fill="#161b22" /><polygon points="704,276 712,280 704,284 696,280" fill="#161b22" /><polygon points="696,280 704,284 696,288 688,284" fill="#161b22" /><polygon points="688,284 696,288 688,292 680,288" fill="#161b22" /><polygon points="680,288 688,292 680,296 672,292" fill="#161b22" /><polygon points="736,268 744,272 736,276 728,272" fill="#161b22" /><polygon points="728,272 736,276 728,280 720,276" fill="#161b22" /><polygon points="720,276 728,280 720,284 712,280" fill="#161b22" /><polygon points="712,280 720,284 712,288 704,284" fill="#161b22" /><polygon points="704,284 712,288 704,292 696,288" fill="#161b22" /><polygon points="696,288 704,292 696,296 688,292" fill="#161b22" /><polygon points="688,292 696,296 688,300 680,296" fill="#161b22" /><polygon points="744,272 752,276 744,280 736,276" fill="#161b22" /><polygon points="736,276 744,280 736,284 728,280" fill="#161b22" /><polygon points="728,280 736,284 728,288 720,284" fill="#161b22" /><polygon points="720,284 728,288 720,292 712,288" fill="#161b22" /><polygon points="712,288 720,292 712,296 704,292" fill="#161b22" /><polygon points="704,292 712,296 704,300 696,296" fill="#161b22" /><polygon points="696,296 704,300 696,304 688,300" fill="#161b22" /><polygon points="752,276 760,280 752,284 744,280" fill="#161b22" /><polygon points="744,280 752,284 744,288 736,284" fill="#161b22" /><polygon points="736,284 744,288 736,292 728,288" fill="#161b22" />
+    <polygon points="720,292 728,296 728,272 720,268" fill="#0a4d5c" />
+    <polygon points="736,292 728,296 728,272 736,268" fill="#0e7a8a" />
+    <polygon points="728,264 736,268 728,272 720,268" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="712,296 720,300 720,284 712,280" fill="#0a4d5c" />
+    <polygon points="728,296 720,300 720,284 728,280" fill="#0e7a8a" />
+    <polygon points="720,276 728,280 720,284 712,280" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="712,296 720,300 712,304 704,300" fill="#161b22" /><polygon points="704,300 712,304 704,308 696,304" fill="#161b22" /><polygon points="760,280 768,284 760,288 752,284" fill="#161b22" /><polygon points="752,284 760,288 752,292 744,288" fill="#161b22" />
+    <polygon points="736,292 744,296 744,288 736,284" fill="#0a4d5c" />
+    <polygon points="752,292 744,296 744,288 752,284" fill="#0e7a8a" />
+    <polygon points="744,280 752,284 744,288 736,284" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="728,296 736,300 736,292 728,288" fill="#0a4d5c" />
+    <polygon points="744,296 736,300 736,292 744,288" fill="#0e7a8a" />
+    <polygon points="736,284 744,288 736,292 728,288" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="728,296 736,300 728,304 720,300" fill="#161b22" /><polygon points="720,300 728,304 720,308 712,304" fill="#161b22" /><polygon points="712,304 720,308 712,312 704,308" fill="#161b22" /><polygon points="768,284 776,288 768,292 760,288" fill="#161b22" />
+    <polygon points="752,292 760,296 760,256 752,252" fill="#0a4d5c" />
+    <polygon points="768,292 760,296 760,256 768,252" fill="#0e7a8a" />
+    <polygon points="760,248 768,252 760,256 752,252" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="744,296 752,300 752,212 744,208" fill="#0a4d5c" />
+    <polygon points="760,296 752,300 752,212 760,208" fill="#0e7a8a" />
+    <polygon points="752,204 760,208 752,212 744,208" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="744,296 752,300 744,304 736,300" fill="#161b22" /><polygon points="736,300 744,304 736,308 728,304" fill="#161b22" /><polygon points="728,304 736,308 728,312 720,308" fill="#161b22" /><polygon points="720,308 728,312 720,316 712,312" fill="#161b22" /><polygon points="776,288 784,292 776,296 768,292" fill="#161b22" /><polygon points="768,292 776,296 768,300 760,296" fill="#161b22" /><polygon points="760,296 768,300 760,304 752,300" fill="#161b22" />
+    <polygon points="744,304 752,308 752,268 744,264" fill="#0a4d5c" />
+    <polygon points="760,304 752,308 752,268 760,264" fill="#0e7a8a" />
+    <polygon points="752,260 760,264 752,268 744,264" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="736,308 744,312 744,304 736,300" fill="#0a4d5c" />
+    <polygon points="752,308 744,312 744,304 752,300" fill="#0e7a8a" />
+    <polygon points="744,296 752,300 744,304 736,300" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="736,308 744,312 736,316 728,312" fill="#161b22" /><polygon points="728,312 736,316 728,320 720,316" fill="#161b22" /><polygon points="784,292 792,296 784,300 776,296" fill="#161b22" /><polygon points="776,296 784,300 776,304 768,300" fill="#161b22" /><polygon points="768,300 776,304 768,308 760,304" fill="#161b22" /><polygon points="760,304 768,308 760,312 752,308" fill="#161b22" /><polygon points="752,308 760,312 752,316 744,312" fill="#161b22" /><polygon points="744,312 752,316 744,320 736,316" fill="#161b22" /><polygon points="736,316 744,320 736,324 728,320" fill="#161b22" /><polygon points="792,296 800,300 792,304 784,300" fill="#161b22" /><polygon points="784,300 792,304 784,308 776,304" fill="#161b22" /><polygon points="776,304 784,308 776,312 768,308" fill="#161b22" /><polygon points="768,308 776,312 768,316 760,312" fill="#161b22" /><polygon points="760,312 768,316 760,320 752,316" fill="#161b22" /><polygon points="752,316 760,320 752,324 744,320" fill="#161b22" /><polygon points="744,320 752,324 744,328 736,324" fill="#161b22" /><polygon points="800,300 808,304 800,308 792,304" fill="#161b22" /><polygon points="792,304 800,308 792,312 784,308" fill="#161b22" /><polygon points="784,308 792,312 784,316 776,312" fill="#161b22" /><polygon points="776,312 784,316 776,320 768,316" fill="#161b22" /><polygon points="768,316 776,320 768,324 760,320" fill="#161b22" /><polygon points="760,320 768,324 760,328 752,324" fill="#161b22" /><polygon points="752,324 760,328 752,332 744,328" fill="#161b22" />
+    <polygon points="800,308 808,312 808,264 800,260" fill="#0a4d5c" />
+    <polygon points="816,308 808,312 808,264 816,260" fill="#0e7a8a" />
+    <polygon points="808,256 816,260 808,264 800,260" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon><polygon points="800,308 808,312 800,316 792,312" fill="#161b22" /><polygon points="792,312 800,316 792,320 784,316" fill="#161b22" /><polygon points="784,316 792,320 784,324 776,320" fill="#161b22" /><polygon points="776,320 784,324 776,328 768,324" fill="#161b22" /><polygon points="768,324 776,328 768,332 760,328" fill="#161b22" /><polygon points="760,328 768,332 760,336 752,332" fill="#161b22" /><polygon points="816,308 824,312 816,316 808,312" fill="#161b22" /><polygon points="808,312 816,316 808,320 800,316" fill="#161b22" /><polygon points="800,316 808,320 800,324 792,320" fill="#161b22" />
+    <polygon points="784,324 792,328 792,320 784,316" fill="#0a4d5c" />
+    <polygon points="800,324 792,328 792,320 800,316" fill="#0e7a8a" />
+    <polygon points="792,312 800,316 792,320 784,316" fill="#00d2ff">
+      <animate attributeName="fill" values="#00d2ff;#ffffff;#00d2ff" dur="3s" repeatCount="indefinite" />
+    </polygon>
+    <polygon points="776,328 784,332 784,284 776,280" fill="#0a4d5c" />
+    <polygon points="792,328 784,332 784,284 792,280" fill="#0e7a8a" />
+    <polygon points="784,276 792,280 784,284 776,280" fill="#33E6F0">
+      <animate attributeName="fill" values="#33E6F0;#ffffff;#33E6F0" dur="3s" repeatCount="indefinite" />
+    </polygon></svg>
