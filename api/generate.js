@@ -12,31 +12,34 @@ export default async function handler(req, res) {
 
     const response = await fetch('https://api.github.com/graphql', {
       method: 'POST',
-      headers: {
-        'Authorization': `Bearer ${GITHUB_TOKEN}`,
-        'Content-Type': 'application/json',
-      },
+      headers: { 'Authorization': `Bearer ${GITHUB_TOKEN}`, 'Content-Type': 'application/json' },
       body: query
     });
 
     const data = await response.json();
-    
-    if (!response.ok) {
-        throw new Error(data.message || 'GitHub API Error');
-    }
-
     const weeks = data.data.user.contributionsCollection.contributionCalendar.weeks;
-    
-    // --- SVG GENERATION LOGIC ---
-    let svg = `<svg width="900" height="450" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">`;
-    
-    // Birds/Spinners
-    for(let i=0; i<6; i++) {
-        const y = Math.random() * 250;
-        svg += `<circle r="1.5" fill="#33E6F0">
-            <animateMotion path="M-20 ${y} L1000 ${y - 30}" dur="${6 + Math.random()*10}s" repeatCount="indefinite" />
-            <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
-        </circle>`;
+
+    // --- TIME OF DAY LOGIC ---
+    const hour = new Date().getUTCHours() + 5; // Adjust '+5' to your target offset
+    const isNight = hour < 6 || hour > 18;
+    const theme = {
+      primary: isNight ? "#ff00ff" : "#33E6F0",   // Synth-Purple vs Cyber-Blue
+      secondary: isNight ? "#7000ff" : "#00d2ff",
+      floor: isNight ? "#1a0033" : "#161b22"
+    };
+
+    let svg = `<svg width="900" height="450" xmlns="http://www.w3.org/2000/svg" style="background:#0d1117">
+      <defs>
+        <filter id="glow"><feGaussianBlur stdDeviation="2.5" result="coloredBlur"/><feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+      </defs>`;
+
+    // 🕊️ ANIMATION: Data Packets (Traffic)
+    for(let i=0; i<12; i++) {
+        const x = Math.random() * 900;
+        svg += `<rect width="1.5" height="1.5" fill="${theme.primary}" filter="url(#glow)">
+            <animateMotion path="M${x} 0 L${x + 200} 450" dur="${2+Math.random()*4}s" repeatCount="indefinite" />
+            <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite" />
+        </rect>`;
     }
 
     weeks.forEach((week, x) => {
@@ -44,27 +47,25 @@ export default async function handler(req, res) {
         const isoX = (x - y) * 8 + 400;
         const isoY = (x + y) * 4 + 100;
         const count = day.contributionCount;
+        const delay = Math.random() * 3;
+
         if (count > 0) {
             const h = count * 8;
-            const color = count > 15 ? "#ff00ff" : "#33E6F0";
-            svg += `<polygon points="${isoX-8},${isoY+4} ${isoX},${isoY+8} ${isoX},${isoY+8-h} ${isoX-8},${isoY+4-h}" fill="#0a4d5c" />
-                    <polygon points="${isoX+8},${isoY+4} ${isoX},${isoY+8} ${isoX},${isoY+8-h} ${isoX+8},${isoY+4-h}" fill="#0e7a8a" />
-                    <polygon points="${isoX},${isoY-h} ${isoX+8},${isoY+4-h} ${isoX},${isoY+8-h} ${isoX-8},${isoY+4-h}" fill="${color}">
-                        <animate attributeName="fill" values="${color};#fff;${color}" dur="2s" repeatCount="indefinite" />
-                    </polygon>`;
+            const color = count > 15 ? "#ffffff" : theme.primary;
+            svg += `
+                <polygon points="${isoX-8},${isoY+4} ${isoX},${isoY+8} ${isoX},${isoY+8-h} ${isoX-8},${isoY+4-h}" fill="${theme.secondary}" opacity="0.8" />
+                <polygon points="${isoX+8},${isoY+4} ${isoX},${isoY+8} ${isoX},${isoY+8-h} ${isoX+8},${isoY+4-h}" fill="${theme.secondary}" />
+                <polygon points="${isoX},${isoY-h} ${isoX+8},${isoY+4-h} ${isoX},${isoY+8-h} ${isoX-8},${isoY+4-h}" fill="${color}" filter="url(#glow)">
+                    <animate attributeName="fill" values="${color};${theme.primary};${color}" dur="3s" begin="${delay}s" repeatCount="indefinite" />
+                </polygon>`;
         } else {
-            svg += `<polygon points="${isoX},${isoY} ${isoX+8},${isoY+4} ${isoX},${isoY+8} ${isoX-8},${isoY+4}" fill="#161b22" opacity="0.3"/>`;
+            svg += `<polygon points="${isoX},${isoY} ${isoX+8},${isoY+4} ${isoX},${isoY+8} ${isoX-8},${isoY+4}" fill="${theme.floor}" opacity="0.4"/>`;
         }
       });
     });
 
     svg += `</svg>`;
-    
     res.setHeader('Content-Type', 'image/svg+xml');
-    res.setHeader('Cache-Control', 's-maxage=3600, stale-while-revalidate');
     return res.status(200).send(svg);
-
-  } catch (error) {
-    return res.status(500).send(`System Error: ${error.message}`);
-  }
+  } catch (e) { return res.status(500).send('API Error'); }
 }
