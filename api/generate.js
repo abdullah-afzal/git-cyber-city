@@ -6,6 +6,11 @@ export default async function handler(req, res) {
 
   try {
     const GITHUB_TOKEN = process.env.GH_TOKEN;
+
+    if (!GITHUB_TOKEN) {
+    console.error("CRITICAL: GH_TOKEN is missing from Environment Variables");
+  }
+  
     const query = `query($u:String!){user(login:$u){contributionsCollection{contributionCalendar{weeks{contributionDays{contributionCount}}}}}}`;
     
     const response = await axios.post('https://api.github.com/graphql', 
