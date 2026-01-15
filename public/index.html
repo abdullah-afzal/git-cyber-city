@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>GIT-CYBER-CITY</title>
+    <style>
+        body { background: #050505; color: #00f2ff; font-family: 'Courier New', monospace; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; }
+        .terminal { width: 900px; border: 1px solid #33E6F0; background: #0d1117; box-shadow: 0 0 30px rgba(51, 230, 240, 0.2); position: relative; }
+        .header { background: #33E6F0; color: #000; padding: 5px 10px; font-weight: bold; display: flex; justify-content: space-between; }
+        .content { padding: 20px; }
+        .input-line { display: flex; gap: 10px; align-items: center; margin-bottom: 20px; }
+        input { background: none; border: none; border-bottom: 2px solid #33E6F0; color: #fff; outline: none; font-size: 1.2rem; width: 250px; }
+        button { background: #33E6F0; border: none; color: #000; padding: 5px 15px; cursor: pointer; font-weight: bold; }
+        button:hover { background: #fff; }
+        #city-viewport { width: 100%; min-height: 450px; border: 1px solid #1a1f29; display: flex; align-items: center; justify-content: center; background: #000; }
+        img { max-width: 100%; height: auto; }
+        .glitch { text-shadow: 2px 0 #ff00ff, -2px 0 #00f2ff; animation: pulse 2s infinite; }
+        @keyframes pulse { 0% { opacity: 1; } 50% { opacity: 0.7; } 100% { opacity: 1; } }
+    </style>
+</head>
+<body>
+    <div class="terminal">
+        <div class="header">
+            <span>SYSTEM_OS v1.0.4</span>
+            <span>STATUS: ONLINE</span>
+        </div>
+        <div class="content">
+            <h1 class="glitch">> GIT_CYBER_CITY_PROTCOL</h1>
+            <div class="input-line">
+                <span>ENTER_USER:</span>
+                <input type="text" id="username" placeholder="GitHub Username..." spellcheck="false">
+                <button onclick="preview()">EXECUTE</button>
+            </div>
+            <div id="city-viewport">
+                <p id="status">WAITING FOR COMMAND...</p>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        function preview() {
+            const user = document.getElementById('username').value;
+            const viewport = document.getElementById('city-viewport');
+            const status = document.getElementById('status');
+            
+            if(!user) return alert("Enter a username!");
+            
+            status.innerText = "GENERATING METROPOLIS...";
+            const img = new Image();
+            img.src = `/api/generate?username=${user}`;
+            img.onload = () => {
+                viewport.innerHTML = '';
+                viewport.appendChild(img);
+            };
+            img.onerror = () => {
+                status.innerText = "ERROR: USER_NOT_FOUND_IN_GRID";
+            };
+        }
+    </script>
+</body>
+</html>
